@@ -2,8 +2,9 @@
   "index": "Introduction",
   "survival": "Survival-action MMORPG",
   "commandments": "Our commandments",
-  "lore": "Lore",
+  "lore": "World and lore",
   "systems": "Features",
+  "roadmap": "Roadmap",
   "about": {
     "title": "About",
     "type": "page"
