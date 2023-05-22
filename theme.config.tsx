@@ -17,7 +17,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.gg/avqzCCR8',
   },
-  docsRepositoryBase: 'https://github.com/mojiitek/documentation-public-site',
+  docsRepositoryBase: 'https://github.com/mojiitek/documentation-public-site/blob/main',
   useNextSeoProps() {
     return {
       titleTemplate: '%s – The Divine Reborn'
